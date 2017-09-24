@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab0_student"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab0_student">
+				<Option output="/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/lab0_student" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab0_student"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab0_student/fast">
+				<Option output="/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/lab0_student" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab0_student/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Admin/Desktop/CS377/lab0-student/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/foo1.txt">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/foo2.txt">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest-death-test.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest-message.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest-param-test.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest-printers.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest-spi.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest-test-part.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest-typed-test.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest_pred_impl.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/gtest_prod.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/custom/gtest-port.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/custom/gtest-printers.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/custom/gtest.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-death-test-internal.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-filepath.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-internal.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-linked_ptr.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-param-util-generated.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-param-util.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-port-arch.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-port.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-string.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-tuple.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/include/gtest/internal/gtest-type-util.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-all.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-death-test.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-filepath.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-internal-inl.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-port.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-printers.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-test-part.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest-typed-test.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/gtest/src/gtest_main.cc">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/inputs.txt">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/src/inverter.cpp">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/src/inverter.h">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/src/main.cpp">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/test/inverter_tests.cpp">
+			<Option target="lab0_student"/>
+		</Unit>
+		<Unit filename="/Users/Admin/Desktop/CS377/lab0-student/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
